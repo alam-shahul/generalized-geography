@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/generalized-geography/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/generalized-geography/static/js/main.9798f265.chunk.js",
+    "main.js.map": "/generalized-geography/static/js/main.9798f265.chunk.js.map",
+    "runtime-main.js": "/generalized-geography/static/js/runtime-main.d96af7ef.js",
+    "runtime-main.js.map": "/generalized-geography/static/js/runtime-main.d96af7ef.js.map",
+    "static/js/2.d632b166.chunk.js": "/generalized-geography/static/js/2.d632b166.chunk.js",
+    "static/js/2.d632b166.chunk.js.map": "/generalized-geography/static/js/2.d632b166.chunk.js.map",
+    "static/js/3.4d299a24.chunk.js": "/generalized-geography/static/js/3.4d299a24.chunk.js",
+    "static/js/3.4d299a24.chunk.js.map": "/generalized-geography/static/js/3.4d299a24.chunk.js.map",
+    "index.html": "/generalized-geography/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/generalized-geography/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d632b166.chunk.js.LICENSE.txt": "/generalized-geography/static/js/2.d632b166.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/generalized-geography/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d96af7ef.js",
+    "static/js/2.d632b166.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9798f265.chunk.js"
+  ]
+}
