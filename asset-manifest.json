@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/generalized-geography/static/css/main.6566af26.chunk.css",
-    "main.js": "/generalized-geography/static/js/main.cb1651a9.chunk.js",
-    "main.js.map": "/generalized-geography/static/js/main.cb1651a9.chunk.js.map",
+    "main.js": "/generalized-geography/static/js/main.144940e9.chunk.js",
+    "main.js.map": "/generalized-geography/static/js/main.144940e9.chunk.js.map",
     "runtime-main.js": "/generalized-geography/static/js/runtime-main.8f4c0382.js",
     "runtime-main.js.map": "/generalized-geography/static/js/runtime-main.8f4c0382.js.map",
     "static/js/2.415b88d2.chunk.js": "/generalized-geography/static/js/2.415b88d2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8f4c0382.js",
     "static/js/2.415b88d2.chunk.js",
     "static/css/main.6566af26.chunk.css",
-    "static/js/main.cb1651a9.chunk.js"
+    "static/js/main.144940e9.chunk.js"
   ]
 }
