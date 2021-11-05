@@ -168,7 +168,7 @@ function App() {
     
     let lastLetter = lastNode.data.label[lastNode.data.label.length-1].toLowerCase();
 	if (lastLetter !== e.target.guess.value[0].toLowerCase()) {
-	  setErrorMessage(`Your guess doesn't start with the '${lastLetter}'!`);
+	  setErrorMessage(`Your guess doesn't start with the letter '${lastLetter}'!`);
 	  return
     }
 
