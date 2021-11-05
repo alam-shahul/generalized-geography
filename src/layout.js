@@ -6,8 +6,9 @@ const DEFAULT_HEIGHT = 75
 
 const elk = new Elk({
   defaultLayoutOptions: {
-    'elk.algorithm': 'elk.mrtree',
-    'elk.spacing.nodeNode': '75',
+    'elk.algorithm': 'elk.layered',
+    'elk.spacing.nodeNode': '200',
+    'elk.direction': "DOWN"
   }
 })
 
